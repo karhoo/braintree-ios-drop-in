@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "Annuleren";
 "RETRY_ACTION"                              = "Opnieuw proberen";
 "CONTINUE_ACTION"                           = "Doorgaan";
-"ADD_CARD_ACTION"                           = "Kaart toevoegen";
+"ADD_CARD_ACTION"                           = "Betalen";
 "DONE_ACTION"                               = "Klaar";
 "EDIT_ACTION"                               = "Bewerken";
 "NEXT_ACTION"                               = "Volgende";

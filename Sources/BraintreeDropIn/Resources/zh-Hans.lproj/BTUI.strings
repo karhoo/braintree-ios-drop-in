@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "取消";
 "RETRY_ACTION"                              = "重试";
 "CONTINUE_ACTION"                           = "继续";
-"ADD_CARD_ACTION"                           = "添加卡";
+"ADD_CARD_ACTION"                           = "付";
 "DONE_ACTION"                               = "完成";
 "EDIT_ACTION"                               = "编辑";
 "NEXT_ACTION"                               = "下一步";

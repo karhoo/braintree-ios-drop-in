@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "Abbrechen";
 "RETRY_ACTION"                              = "Wiederholen";
 "CONTINUE_ACTION"                           = "Weiter";
-"ADD_CARD_ACTION"                           = "Kreditkarte hinzufügen";
+"ADD_CARD_ACTION"                           = "Bezahlen";
 "DONE_ACTION"                               = "Fertig";
 "EDIT_ACTION"                               = "Bearbeiten";
 "NEXT_ACTION"                               = "Weiter";

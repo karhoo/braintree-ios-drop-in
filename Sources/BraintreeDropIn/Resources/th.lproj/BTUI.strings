@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "ยกเลิก";
 "RETRY_ACTION"                              = "ลองอีกครั้ง";
 "CONTINUE_ACTION"                           = "ดำเนินการต่อ";
-"ADD_CARD_ACTION"                           = "เพิ่มบัตร";
+"ADD_CARD_ACTION"                           = "ชำระ";
 "DONE_ACTION"                               = "เสร็จแล้ว";
 "EDIT_ACTION"                               = "แก้ไข";
 "NEXT_ACTION"                               = "ถัดไป";

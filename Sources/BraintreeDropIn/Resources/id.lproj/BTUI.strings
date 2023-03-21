@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "Batalkan";
 "RETRY_ACTION"                              = "Coba lagi";
 "CONTINUE_ACTION"                           = "Lanjutkan";
-"ADD_CARD_ACTION"                           = "Tambahkan Kartu";
+"ADD_CARD_ACTION"                           = "Membayar";
 "DONE_ACTION"                               = "Selesai";
 "EDIT_ACTION"                               = "Edit";
 "NEXT_ACTION"                               = "Berikutnya";

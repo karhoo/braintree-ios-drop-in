@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "キャンセル";
 "RETRY_ACTION"                              = "再試行";
 "CONTINUE_ACTION"                           = "続行";
-"ADD_CARD_ACTION"                           = "カードの追加";
+"ADD_CARD_ACTION"                           = "支払う";
 "DONE_ACTION"                               = "完了";
 "EDIT_ACTION"                               = "編集";
 "NEXT_ACTION"                               = "次へ";

@@ -23,7 +23,7 @@
 "CANCEL_ACTION"                             = "Отмена";
 "RETRY_ACTION"                              = "Повторите попытку";
 "CONTINUE_ACTION"                           = "Продолжить";
-"ADD_CARD_ACTION"                           = "Добавить карту";
+"ADD_CARD_ACTION"                           = "платить";
 "DONE_ACTION"                               = "Готово";
 "EDIT_ACTION"                               = "Изменить";
 "NEXT_ACTION"                               = "Далее";
